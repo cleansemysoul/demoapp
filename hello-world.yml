@@ -1,0 +1,4 @@
+template: Bonjour, %s!
+defaultName: KANOMA
+server:
+  rootPath: /api/
